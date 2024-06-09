@@ -1,0 +1,5 @@
+*.js
+*.json
+/fonts
+/node_modules
+/Test
