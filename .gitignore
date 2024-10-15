@@ -1,5 +1,6 @@
 *.js
 *.json
+*.zip
 /fonts
 /node_modules
 /Test
